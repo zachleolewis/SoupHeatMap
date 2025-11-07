@@ -1,0 +1,18 @@
+{
+  "productName": "SoupHeatMap",
+  "version": "1.0.0",
+  "identifier": "com.soupheatmap.dev",
+  "build": {
+    "beforeBuildCommand": "npm run build",
+    "beforeDevCommand": null,
+    "frontendDist": "../dist"
+  },
+  "bundle": {
+    "active": true,
+    "targets": ["nsis", "appimage"],
+    "category": "DeveloperTool",
+    "copyright": "",
+    "shortDescription": "",
+    "longDescription": ""
+  }
+}
