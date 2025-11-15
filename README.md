@@ -2,6 +2,8 @@
 
 A sleek, modern desktop application for analyzing Valorant match data through interactive heatmaps and advanced filtering.
 
+![Uploading image.png…]()
+
 ## Tech Stack
 
 - **Frontend**: React 19 + TypeScript
